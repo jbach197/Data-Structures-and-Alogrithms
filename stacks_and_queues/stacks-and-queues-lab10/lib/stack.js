@@ -1,25 +1,22 @@
-'use strict';
-
 class Stack {
 
   constructor() {
+    this.storage = new Array();
     this.count = 0;
-    this.storage = {};
   }
-
+  
   push(value) {
-    this.storage[this.count] = value;
+    this.storage.push(value);
     this.count++;
   }
 
   pop() {
-    if (this.count === 0) {
-      return undefined;
+    if(this.count === 0){
+      return 'No items in stack';
     }
+
     this.count --;
-    let result = this.storage[this.count];
-    delete this.storage[this.count];
-    return result;
+    return this.storage.pop();   
   }
 }
 

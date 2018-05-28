@@ -10,12 +10,11 @@
     "test": "jest --verbose --coverage",
     "test-watch": "—jest —watchAll —verbose —coverage",
     "lint": " **/*.js"
-
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "eslint": "^4.19.1",
-    "jest": "^23.0.0"
+    "jest": "^23.0.1"
   }
 }
