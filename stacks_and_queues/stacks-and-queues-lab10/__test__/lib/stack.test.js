@@ -50,11 +50,4 @@ describe('Stack', () => {
   });
 
 
-
-
-  //item removed from stack
-  //count reduced
-  //item stored off
-
-
 });
