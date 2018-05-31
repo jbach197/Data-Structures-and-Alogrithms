@@ -17,3 +17,9 @@ Input      Output
 ![whiteboard image](multi-bracket-verification.jpg)
 
 ## Credits
+Worked with Timea.
+Consulted:
+
+https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/
+
+http://clarkfeusier.com/2015/01/16/interview-question-balanced-parentheses-stack.html
