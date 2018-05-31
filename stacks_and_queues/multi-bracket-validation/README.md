@@ -14,7 +14,7 @@ Input      Output
 (](	       FALSE
 
 ## Solution
-![whiteboard image](multi-bracket-verification.jpg)
+![whiteboard image](multi-bracket-validation.jpg)
 
 ## Credits
 Worked with Timea.
