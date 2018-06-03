@@ -25,4 +25,4 @@ seven.left = eight;
 seven.right = nine;
 
 console.log(tree);
-console.log(tree.inOrder();
+console.log(tree.inOrder());
