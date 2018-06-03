@@ -8,7 +8,7 @@ export default class BinaryTree{
 
   //In-order (left - root - right) traversal
   //Time - O(n) where n is the number of nodes
-  //space - O(h) where n is the height of tree
+  //space - O(n) where n is the height of tree
 
   inOrder() {
     let results = [];
