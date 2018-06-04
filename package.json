@@ -1,0 +1,25 @@
+{
+  "name": "data-structures-and-alogrithms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose --coverage",
+    "test-watch": "jest --testWatch --verbose --coverage",
+    "lint": "eslint **/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jbach197/Data-Structures-and-Alogrithms.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jbach197/Data-Structures-and-Alogrithms/issues"
+  },
+  "homepage": "https://github.com/jbach197/Data-Structures-and-Alogrithms#readme",
+  "dependencies": {
+    "eslint": "^4.19.1",
+    "jest": "^23.0.0"
+  }
+}

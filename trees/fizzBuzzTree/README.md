@@ -16,4 +16,4 @@ Without utilizing any of the built-in methods available to your language, determ
 ## Credits
 Worked with: Jason
 
-Resources Consulted:
+Resources Consulted: None
