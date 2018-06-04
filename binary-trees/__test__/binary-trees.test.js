@@ -50,6 +50,6 @@ describe('tree traversal', () => {
     seven.left = eight;
     seven.right = nine;
 
-    expect(tree.inOrder).toBe(6, 8, 7, 9, 2, 1, 4, 3, 5);
+    expect(tree.inOrder()).toEqual([6, 8, 7, 9, 2, 1, 4, 3, 5]);
   });
 });
